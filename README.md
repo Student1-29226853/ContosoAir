@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/AppInnovation-29226853/PartsUnlimited/_apis/build/status/Student1-29226853.ContosoAir?branchName=master)](https://dev.azure.com/AppInnovation-29226853/PartsUnlimited/_build/latest?definitionId=2&branchName=master)
+
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
